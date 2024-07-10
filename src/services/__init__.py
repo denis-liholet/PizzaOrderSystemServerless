@@ -1,0 +1,1 @@
+COUNTER_SSM_PARAM_NAME = 'OrdersCounter'
